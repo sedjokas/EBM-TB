@@ -1,4 +1,4 @@
-# MODEL 3 : Mathematical model                                                                #
+# MODEL 1 : Mathematical model                                                                #
 # Framework : PhD in mathematical sciences                                                    #
 # Author: Selain Kasereka                                                                     #
 # Supervisors : Emile-Franc Doungmo Goufo and Vinh Ho Tuong                                   #
